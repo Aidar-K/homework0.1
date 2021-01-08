@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SUPER MEGA APP</string>
+    <string name="GoIn">Вход</string>
+    <string name="YourWelcome">Добро пожаловать!</string>
+    <string name="NotYourWelcome">Выполните вход</string>
+    <string name="NotYourWelcome2">или зарегистрируйтесь.</string>
+    <string name="Login">Ведите вашу почту</string>
+    <string name="Pass">Введите пароль</string>
+    <string name="Log">Войти</string>
+    <string name="Change">Забыли пароль?</string>
+    <string name="Change2">Нажми сюда</string>
+
+</resources>
